@@ -1,0 +1,8 @@
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\bin\Debug\pracadomowaz18_04_23.exe.config
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\bin\Debug\pracadomowaz18_04_23.exe
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\bin\Debug\pracadomowaz18_04_23.pdb
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\obj\Debug\pracadomowaz18_04_23.csproj.AssemblyReference.cache
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\obj\Debug\pracadomowaz18_04_23.csproj.SuggestedBindingRedirects.cache
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\obj\Debug\pracadomowaz18_04_23.csproj.CoreCompileInputs.cache
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\obj\Debug\pracadomowaz18_04_23.exe
+C:\Users\48601\source\repos\pracadomowaz18_04_23\pracadomowaz18_04_23\obj\Debug\pracadomowaz18_04_23.pdb

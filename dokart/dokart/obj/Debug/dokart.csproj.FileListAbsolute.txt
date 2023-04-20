@@ -1,0 +1,8 @@
+C:\Users\48601\source\repos\dokart\dokart\bin\Debug\dokart.exe.config
+C:\Users\48601\source\repos\dokart\dokart\bin\Debug\dokart.exe
+C:\Users\48601\source\repos\dokart\dokart\bin\Debug\dokart.pdb
+C:\Users\48601\source\repos\dokart\dokart\obj\Debug\dokart.csproj.AssemblyReference.cache
+C:\Users\48601\source\repos\dokart\dokart\obj\Debug\dokart.csproj.SuggestedBindingRedirects.cache
+C:\Users\48601\source\repos\dokart\dokart\obj\Debug\dokart.csproj.CoreCompileInputs.cache
+C:\Users\48601\source\repos\dokart\dokart\obj\Debug\dokart.exe
+C:\Users\48601\source\repos\dokart\dokart\obj\Debug\dokart.pdb

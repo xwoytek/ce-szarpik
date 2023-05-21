@@ -28,18 +28,19 @@ namespace projektkoncowynainfetenfaktycznyczyliuno
             }
             int n1 = 0;
             int n2 = 0;
-            while (!win1 && !win2)
+            
+            while (!win1 || !win2)
             {
                 //start gracz 1
                 label1:;
-                for (int i = 0; i > cardsplayer1.Length; i++)
+                for (int i = 0; i < cardsplayer1.Length; i++)
                 {
                     if (cardsplayer1[i] == null)
                     {
                         n1++;
                     }
                 }
-                for (int i = 0; i > cardsplayer2.Length; i++)
+                for (int i = 0; i < cardsplayer2.Length; i++)
                 {
                     if (cardsplayer2[i] == null)
                     {
@@ -51,10 +52,14 @@ namespace projektkoncowynainfetenfaktycznyczyliuno
                     if (n1>n2)
                     {
                         win1 = true;
+                        n1 = 0; n2 = 0 ;
+                        break;
                     }
                     if (n2>n1)
                     {
                         win2 = true;
+                        n1 = 0; n2 = 0;
+                        break;
                     } 
                 }
                 string odp1 = dialogi.gracz1(cardsplayer1,lastcard);
@@ -125,14 +130,14 @@ namespace projektkoncowynainfetenfaktycznyczyliuno
 
                 //start gracz 2
                 label2:;
-                for (int i = 0; i > cardsplayer1.Length; i++)
+                for (int i = 0; i < cardsplayer1.Length; i++)
                 {
                     if (cardsplayer1[i] == null)
                     {
                         n1++;
                     }
                 }
-                for (int i = 0; i > cardsplayer2.Length; i++)
+                for (int i = 0; i < cardsplayer2.Length; i++)
                 {
                     if (cardsplayer2[i] == null)
                     {
@@ -144,10 +149,14 @@ namespace projektkoncowynainfetenfaktycznyczyliuno
                     if (n1 > n2)
                     {
                         win1 = true;
+                        n1 = 0; n2 = 0;
+                        break;
                     }
                     if (n2 > n1)
                     {
                         win2 = true;
+                        n1 = 0; n2 = 0;
+                        break;
                     }
                 }
                 string odp2 = dialogi.gracz2(cardsplayer2, lastcard);

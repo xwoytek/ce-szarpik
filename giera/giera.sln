@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "giera", "giera\giera.csproj", "{87CA6E43-3154-4B8A-8AC5-47E3E2FE3FCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8E43364-A2A6-4863-9206-4D6E87788B8D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CA6E43-3154-4B8A-8AC5-47E3E2FE3FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CA6E43-3154-4B8A-8AC5-47E3E2FE3FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CA6E43-3154-4B8A-8AC5-47E3E2FE3FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CA6E43-3154-4B8A-8AC5-47E3E2FE3FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F45E4E2-ED78-4B16-BECF-C3AE4E0A7A59}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\48601\source\repos\giera\giera\bin\Debug\giera.exe.config
+C:\Users\48601\source\repos\giera\giera\bin\Debug\giera.exe
+C:\Users\48601\source\repos\giera\giera\bin\Debug\giera.pdb
+C:\Users\48601\source\repos\giera\giera\obj\Debug\giera.csproj.AssemblyReference.cache
+C:\Users\48601\source\repos\giera\giera\obj\Debug\giera.csproj.SuggestedBindingRedirects.cache
+C:\Users\48601\source\repos\giera\giera\obj\Debug\giera.csproj.CoreCompileInputs.cache
+C:\Users\48601\source\repos\giera\giera\obj\Debug\giera.exe
+C:\Users\48601\source\repos\giera\giera\obj\Debug\giera.pdb
